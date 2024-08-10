@@ -1,6 +1,6 @@
 ## Hi there 👋 This is Mario Armini's Github work profile
 
-<img src="https://raw.githubusercontent.com/marmininode/marmininode/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MarioArmini/MarioArmini/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -31,13 +31,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=marmininode&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=MarioArmini&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marmininode&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioArmini&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
